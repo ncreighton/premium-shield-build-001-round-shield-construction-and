@@ -1,0 +1,2 @@
+# premium-shield-build-001-round-shield-construction-and
+Tired of losing track of shield measurements and boss fit adjustments across multiple notebooks? This Notion log captures every dimension, material choice, and fitting iteration in one organized space.  It solves the chaos of scattered notes by providing a structured template for round shield construction – from blank diameter to boss depth. It's t
